@@ -1,0 +1,12 @@
+{
+  "name": "otp-simulator-bot",
+  "version": "1.0.0",
+  "description": "Bot Simulasi OTP WhatsApp",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "lowdb": "^1.0.0",
+    "node-cron": "^3.0.2",
+    "telegraf": "^4.12.0"
+  }
+}
